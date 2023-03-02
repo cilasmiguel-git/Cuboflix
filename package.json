@@ -52,5 +52,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/cilasmiguel-git/mcuboflix.git"
+  "homepage": "https://github.com/cilasmiguel-git/Mcuboflix.git"
 }
