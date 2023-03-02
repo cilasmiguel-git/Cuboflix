@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cilasmiguel-git/Mcuboflix/static/css/main.61487fe7.css",
+    "main.js": "/cilasmiguel-git/Mcuboflix/static/js/main.9364d16e.js",
+    "static/media/boxicons.svg": "/cilasmiguel-git/Mcuboflix/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/cilasmiguel-git/Mcuboflix/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/cilasmiguel-git/Mcuboflix/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/cilasmiguel-git/Mcuboflix/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/cilasmiguel-git/Mcuboflix/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/tmovie.png": "/cilasmiguel-git/Mcuboflix/static/media/tmovie.523e1219c6e2eb7bc5e4.png",
+    "static/media/boxicons.woff2": "/cilasmiguel-git/Mcuboflix/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/cilasmiguel-git/Mcuboflix/index.html",
+    "main.61487fe7.css.map": "/cilasmiguel-git/Mcuboflix/static/css/main.61487fe7.css.map",
+    "main.9364d16e.js.map": "/cilasmiguel-git/Mcuboflix/static/js/main.9364d16e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61487fe7.css",
+    "static/js/main.9364d16e.js"
+  ]
+}
