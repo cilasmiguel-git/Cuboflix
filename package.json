@@ -48,7 +48,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://johndoe.github.io/my-app"
+  "homepage": "https://github.com/cilasmiguel-git/Mcuboflix"
 
   
 
