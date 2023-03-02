@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cilasmiguel-git/Cuboflix.git/static/css/main.892fa6f9.css",
-    "main.js": "/cilasmiguel-git/Cuboflix.git/static/js/main.f2c8477f.js",
-    "static/media/boxicons.svg": "/cilasmiguel-git/Cuboflix.git/static/media/boxicons.045b05bf2dc119267a90.svg",
-    "static/media/footer-bg.jpg": "/cilasmiguel-git/Cuboflix.git/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/cilasmiguel-git/Cuboflix.git/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/cilasmiguel-git/Cuboflix.git/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/cilasmiguel-git/Cuboflix.git/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/tmovie.png": "/cilasmiguel-git/Cuboflix.git/static/media/tmovie.523e1219c6e2eb7bc5e4.png",
-    "static/media/boxicons.woff2": "/cilasmiguel-git/Cuboflix.git/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "index.html": "/cilasmiguel-git/Cuboflix.git/index.html",
-    "main.892fa6f9.css.map": "/cilasmiguel-git/Cuboflix.git/static/css/main.892fa6f9.css.map",
-    "main.f2c8477f.js.map": "/cilasmiguel-git/Cuboflix.git/static/js/main.f2c8477f.js.map"
+    "main.css": "/Cuboflix/static/css/main.b6ec398b.css",
+    "main.js": "/Cuboflix/static/js/main.8c9e18e2.js",
+    "static/media/boxicons.svg": "/Cuboflix/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/Cuboflix/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/Cuboflix/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/Cuboflix/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/Cuboflix/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/tmovie.png": "/Cuboflix/static/media/tmovie.523e1219c6e2eb7bc5e4.png",
+    "static/media/boxicons.woff2": "/Cuboflix/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/Cuboflix/index.html",
+    "main.b6ec398b.css.map": "/Cuboflix/static/css/main.b6ec398b.css.map",
+    "main.8c9e18e2.js.map": "/Cuboflix/static/js/main.8c9e18e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.892fa6f9.css",
-    "static/js/main.f2c8477f.js"
+    "static/css/main.b6ec398b.css",
+    "static/js/main.8c9e18e2.js"
   ]
 }
