@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Cuboflix/static/css/main.b6ec398b.css",
-    "main.js": "/Cuboflix/static/js/main.74cd5d23.js",
+    "main.css": "/Cuboflix/static/css/main.b94e1b8b.css",
+    "main.js": "/Cuboflix/static/js/main.df7cbd30.js",
     "static/media/boxicons.svg": "/Cuboflix/static/media/boxicons.045b05bf2dc119267a90.svg",
     "static/media/footer-bg.jpg": "/Cuboflix/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
     "static/media/boxicons.eot": "/Cuboflix/static/media/boxicons.092b78589f3f53e60030.eot",
@@ -10,11 +10,11 @@
     "static/media/tmovie.png": "/Cuboflix/static/media/tmovie.523e1219c6e2eb7bc5e4.png",
     "static/media/boxicons.woff2": "/Cuboflix/static/media/boxicons.8d765747a5588f36ff61.woff2",
     "index.html": "/Cuboflix/index.html",
-    "main.b6ec398b.css.map": "/Cuboflix/static/css/main.b6ec398b.css.map",
-    "main.74cd5d23.js.map": "/Cuboflix/static/js/main.74cd5d23.js.map"
+    "main.b94e1b8b.css.map": "/Cuboflix/static/css/main.b94e1b8b.css.map",
+    "main.df7cbd30.js.map": "/Cuboflix/static/js/main.df7cbd30.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6ec398b.css",
-    "static/js/main.74cd5d23.js"
+    "static/css/main.b94e1b8b.css",
+    "static/js/main.df7cbd30.js"
   ]
 }
